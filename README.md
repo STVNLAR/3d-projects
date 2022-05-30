@@ -7,6 +7,6 @@ Files in here are all .blend file. No OBJ or FBX.
 ### Ferrari 812 Superfast (±110k tri)
 ![alt tag](https://user-images.githubusercontent.com/106525421/170973777-42dc3f30-a016-4d3a-9827-cdfc94fffc45.png)
 
-[Download now!](812.blend)
+[Download now!](https://github.com/STVNLAR/3d-projects/releases/download/v1.0.0/812.blend)
 
 
