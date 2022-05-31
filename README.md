@@ -10,3 +10,9 @@ Files in here are all .blend file. No OBJ or FBX.
 [Download now!](https://github.com/STVNLAR/3d-projects/releases/download/v1.0.0/812.blend)
 
 
+### Chevrolet Camaro 2011 (±70k tri) [LOWPOLY]
+![alt tag](https://user-images.githubusercontent.com/106525421/171136461-50a117c2-bdf3-42c9-ae70-b0c96396561d.png)
+
+[Download now!](https://github.com/STVNLAR/3d-projects/releases/download/v1.0.0/812.blend)
+
+
